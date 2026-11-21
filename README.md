@@ -412,5 +412,3 @@ footer span {
 
 </body>
 </html>
-# soumik-web-
-HTML 
